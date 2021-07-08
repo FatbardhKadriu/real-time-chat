@@ -1,0 +1,25 @@
+{
+  "name": "real-time-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatbardhKadriu/real-time-chat.git"
+  },
+  "keywords": [],
+  "author": "Fatbardh Kadriu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatbardhKadriu/real-time-chat/issues"
+  },
+  "homepage": "https://github.com/FatbardhKadriu/real-time-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.1.2"
+  }
+}
